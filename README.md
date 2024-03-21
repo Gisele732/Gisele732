@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Gisele732
 - 👀 I’m interested in learning new skills and changing career path! I'm a coffee roaster looking to switch to the booming and exciting IT industry. 
 -   I've just started learning so don't ask me any hard question and please be patient :).
-- 🌱 I’m currently learning C#, HTML, CSS via The Odin Project and a NZ Diploma in Web development and design with the Open Polytechnic of New Zealand.
-- 💞️ I’m looking to collaborate on nothing yet, give me a few months to get my head around things and understand what the hell is happening.
+- 🌱 NZ Diploma in Web development and design with the Open Polytechnic of New Zealand
+      BIT with Weltec
+- 💞️ Check out this website I made: https://www.smallvids.co.nz/
 - 📫 How to reach me: email me at annelise.mornard@gmail.com
 
 <!---
